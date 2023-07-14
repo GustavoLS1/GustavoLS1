@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hola, mi nombre es Gustavo soy Fronted Developer de Colombia👨‍💻 </div>  
+### <div align="center">Hola, mi nombre es Gustavo soy Frontend Developer de Colombia👨‍💻 </div>  
   
 
 <br/>  
